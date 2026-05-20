@@ -1,3 +1,3 @@
 # Partner-Central-agents-samples
 
-Please review this workshop - https://catalog.workshops.aws/mpseller/en-US/pc-agents to follow the steps and incorporate the code samples in each section.
+This repo provides samples on how you can use Partner Central agents and incorporate them into different applications you're already using today.
